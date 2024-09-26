@@ -1,0 +1,7 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <symbol id="icon-youtube" viewBox="0 0 300 300">
+    <rect width="240" height="180" x="10" y="10" rx="60" ry="50" fill="#d71e18"></rect>
+    <polygon points="110,60 180,110 110,150" style="fill:white;"></polygon>
+  </symbol>
+</svg>
